@@ -1,0 +1,6 @@
+Settings:
+  #If true, it will help debugging loading assets and such
+  Tiny-Debug: false
+Listeners:
+  ComplexListeners: [ ]
+  TinyListeners: [ ]

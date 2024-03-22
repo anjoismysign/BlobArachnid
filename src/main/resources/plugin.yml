@@ -1,0 +1,13 @@
+name: BlobArachnid
+version: ${project.version}
+main: us.mytheria.blobarachnid.BlobArachnid
+api-version: 1.20
+load: STARTUP
+depend:
+  - BlobLib
+authors:
+  - Cymaera
+  - anjoismysign
+commands:
+  blobarachnid:
+    description: Main command for BlobArachnid
